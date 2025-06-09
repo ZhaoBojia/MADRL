@@ -15,11 +15,4 @@ The complete models and additional code will be released after the acceptance of
 - Custom environment modeling for multi-agent interaction
 - Designed for secure and efficient wireless communication scenarios
 
-## Usage
 
-```bash
-# Clone the repository
-git clone https://github.com/ZhaoBojia/MADRL.git
-
-# Run the main script
-python main_3.py
