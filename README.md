@@ -9,10 +9,5 @@ Currently, the repository provides:
 
 The complete models and additional code will be released after the acceptance of our related paper to facilitate reproducibility and further research.
 
-## Project Highlights
-
-- Multi-agent reinforcement learning framework
-- Custom environment modeling for multi-agent interaction
-- Designed for secure and efficient wireless communication scenarios
 
 
